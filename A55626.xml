@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Præmonitio Kanciæ commitatui; or, a vvarning-piece to Kent vvherein are sundry motives to perswade the well-affected of that countie, to hasten their association with Sussex, Surey, and Hampshiere.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55626</idno><idno type="EEBO-CITATION">99833059</idno>
+  <idno type="VID">37534</idno>
+  <idno type="EEBO-PROQUEST">2248571614</idno>
+  
+            <idno type="STC">Wing P3165B</idno>
+            <idno type="STC">ESTC R221802</idno>
+            <idno type="PROQUEST">99833059</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833059e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2053:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Præmonitio Kanciæ commitatui; or, a vvarning-piece to Kent vvherein are sundry motives to perswade the well-affected of that countie, to hasten their association with Sussex, Surey, and Hampshiere.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the moneth after the great conjunction, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the All Souls College, Oxford, Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37534:1"/>
+            <p>
+               <hi>Praemonitio Kanciae commitatui;</hi> OR, A VVARNING-PIECE TO KENT VVherein are sundry motives to per<g ref="char:EOLhyphen"/>swade the well-affected of that COUNTIE, to hasten their Association with <hi>Sussex, Surrey,</hi> and <hi>Hampshiere.</hi>
+            </p>
+            <q>Lento gradu ad vindictam sui Divina procellit ira tarditatemque supplicij grauitate compensat,
+<bibl>
+                  <hi>Val. Max.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Moneth after the great Conjunction, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37534:2"/>
+            <pb n="1" facs="tcp:37534:2"/>
+            <head>❧ <hi>A Warning piece to</hi> KENT.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Well wisher to the languishing <hi>Island,</hi> with griefe observing the vast Calamities predomi<g ref="char:EOLhyphen"/>nant in most of the <hi>Counties</hi> thereof, occasioned by an in<g ref="char:EOLhyphen"/>testine Warre, and presaging the danger that KENT will undoubtedly fall into, unlesse God bee the more mercifull, and the speedier care be taken, for its Association with the neighbouring Counties; doth tender these en<g ref="char:EOLhyphen"/>suing lines, to the consideration of the well-affected Inhabitants, who have a precious regard to their Religion, Liberties, and Lives;
+<pb n="2" facs="tcp:37534:3"/>never neerer invasion and abolition then now.</p>
+            <p>It is doubted by divers, that the Parliament is not made sensible of the hazourdous condi<g ref="char:EOLhyphen"/>tion that <hi>Countie</hi> is in, nor what extremities the whole Land may be exposed unto, in case that yet unconquered <hi>Countie,</hi> should be pos<g ref="char:EOLhyphen"/>sessed by a Malignant crew, and therefore the <hi>Author,</hi> out of his affection to the republique in generall, and to KENT in particular, hath published the following <hi>Quaeries,</hi> whereby the impartiall Reader may collect, what cause there may be for a speedie Association.</p>
+            <p n="1">1. Is the Countie large, and stored with Graine, and other rich Commodities? <hi>Quaere,</hi> if it be not the fitter receptable for the devouring Cavaliers, who are at a stand, or rather sitting in councell, to thinke where they may disperse themselves, to worke most mischiefe.</p>
+            <p n="2">2. Is the Countie rich, as who doubts the contrary? <hi>Quaere,</hi> how free it hath been to
+<pb n="3" facs="tcp:37534:3"/>give or lend, either to the Parliament, or the necessities of poore <hi>Ireland,</hi> the animadver<g ref="char:EOLhyphen"/>sion whereof, may sufficiently perswade any man, how that Countie stands affec<g ref="char:EOLhyphen"/>ted.</p>
+            <p n="3">3. Is the Countie <hi>populous? Quaere,</hi> how in<g ref="char:EOLhyphen"/>considerable the number of good men, are to the Malignants.</p>
+            <p n="4">4. Is the Countie in part bounded with the <hi>Ocian? Quaere,</hi> if it be not the more ly<g ref="char:EOLhyphen"/>able to a forraigne enemy.</p>
+            <p n="5">5. Are most of the Kings ships in a River within that Countie? <hi>Quaere,</hi> what great cause there may bee, for the safegaurding them, being the wals of the Kingdome.</p>
+            <p n="6">6. Is not the principall Magazine for those ships at <hi>Chatham-dock? Quaere,</hi> if the Garri<g ref="char:EOLhyphen"/>son under the Command of Captaine <hi>Chap<g ref="char:EOLhyphen"/>man</hi> there, bee a considerable strength, to oppose the Sonnes of violence, and to
+<pb n="4" facs="tcp:37534:4"/>preserve the Stores, if any attempt should be made.</p>
+            <p n="7">7. Are the Bridges at <hi>Aylesford,</hi> and <hi>Ro<g ref="char:EOLhyphen"/>chester</hi> very usefull for the stopping and exa<g ref="char:EOLhyphen"/>mining of Passengers (the common Roads for the <hi>French</hi> and other Nations)? <hi>Quaere,</hi> Whether they have sufficient guards, and such as may be trusted.</p>
+            <p n="8">8. Hath his sacred Majestie through the advice of those about him, issued Procla<g ref="char:EOLhyphen"/>mations forbidding that, and the Neigh<g ref="char:EOLhyphen"/>bouring Connties upon severe penalties, neither to associate, nor contribute, to the late weekly sesse made by our wise Councel in Parliament? <hi>Quaere,</hi> if the cause may not bee so much the greater, to spurr us on to an Association.</p>
+            <p n="9">9 Are the Magistrates within that Coun<g ref="char:EOLhyphen"/>tie to be confided in? <hi>Quaere,</hi> what parties they adhere unto for it is an old saying and true, <hi>par cum paribus,</hi> birds of a feather will
+<pb n="5" facs="tcp:37534:4"/>fly together, learne their company you shall have their inclinations.</p>
+            <p n="10">10. Are the Clergie zealous for the Parlia<g ref="char:EOLhyphen"/>ment? <hi>Quaere,</hi> how forward they bee to read their Declarations, how active they have been to stirre up people by their prea<g ref="char:EOLhyphen"/>ching, to give or lend to the Common good, nay enquire further, if they do not alow of discourses against the great Coun<g ref="char:EOLhyphen"/>cell of our Land, by not reproving those that belch out their Malignities, I dare say no more (though I might bee copious in this particular) lest I should make the black gaurd rise in the head, and under that pre<g ref="char:EOLhyphen"/>tence to raise a Partie before their time.</p>
+            <p n="11">11. Is the Countie forward, to furnish themselves with a zealous Ministry? <hi>Quaer.</hi> Who complains of their disordred Teach<g ref="char:EOLhyphen"/>ers, the hollow-heartednesse of the Coun<g ref="char:EOLhyphen"/>ty appeares in nothing more, I pray GOD this sinne may not be laid to their Charge, who are silent in that particular.</p>
+            <p n="12">12. Doth the Countie abound with Ta<g ref="char:EOLhyphen"/>verns,
+<pb n="6" facs="tcp:37534:5"/>and Victualling-houses? <hi>Quaere,</hi> if the multitudes of those that frequent them be not great, and for the most part ill-affe<g ref="char:EOLhyphen"/>cted, excepting the Cathedrall and Cathe<g ref="char:EOLhyphen"/>dralized-Clergie within the two Cities, and the places adjacent.</p>
+            <p n="13">13. Doth the County exceed in Gentry? <hi>Quaere,</hi> the East and some other parts, how many have shewed themselves active, ei<g ref="char:EOLhyphen"/>ther in their words or deeds for the Patlia<g ref="char:EOLhyphen"/>ment, good Sir <hi>Michael Livesey</hi> must troope it a lone, others are ashamed to appeare in Gods cause.</p>
+            <p>Beloved in <hi>Kent,</hi> I have given you thirteene <hi>Quaeries</hi> to the <hi>dozen,</hi> if you bee not willing to sacrifice your Lives for the Parliaments good, yet out of your severall relations to <hi>Piety,</hi> your <hi>Families, Estates,</hi> and <hi>priveledges,</hi> consider whe<g ref="char:EOLhyphen"/>ther the <hi>premisses</hi> may not be necessary motives for hastening you to an Association, which I heare you are backward in, and if after so plain a <hi>praemonition</hi> you shall with-hold your mutuall furtherance to that worke, when misery fals upon you, say you had a <hi>Warning-piece</hi> from a Friend. <hi>Qui ante non cavet, post dolebit.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
